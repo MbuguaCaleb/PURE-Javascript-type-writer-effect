@@ -1,0 +1,24 @@
+{
+  "name": "PURE-Javascript-type-writer-effect",
+  "version": "1.0.0",
+  "description": "Awesome animated front end",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MbuguaCaleb/PURE-Javascript-type-writer-effect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MbuguaCaleb/PURE-Javascript-type-writer-effect/issues"
+  },
+  "homepage": "https://github.com/MbuguaCaleb/PURE-Javascript-type-writer-effect",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
